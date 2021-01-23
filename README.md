@@ -6,7 +6,7 @@ Well, this account is compromised of 2 people. We are going to post apps, websit
 ## Here is the projects we made:
 
 ### Websites
-[Doodle art(Drawing App)](https://gjdevelops.github.io/doodleart)
+[Doodle Art(Drawing App)](https://gjdevelops.github.io/doodleart)
 
 ### Apps
-[Dodge the bullet(Coded in Python)](https://gjdevelops.github.io/bulletdodge)
+[Dodge the Bullet(Coded in Python)](https://gjdevelops.github.io/bulletdodge)

@@ -9,4 +9,4 @@ Well, this account is compromised of 2 people. We are going to post apps, websit
 [Doodle Art(Drawing App)](https://gjdevelops.github.io/doodleart)
 
 ### Apps
-[Dodge the Bullet(Coded in Python)](https://gjdevelops.github.io/bulletdodge)
+We don't have any yet!

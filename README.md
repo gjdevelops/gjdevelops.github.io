@@ -6,7 +6,7 @@ Well, this account is compromised of 2 people. We are going to post apps, websit
 ## Here are some of the projects we made:
 
 ### Websites
-[Doodle Art(Drawing App)](https://gjdevelops.github.io/doodleart)
+[Doodle Art(Drawing App)](https://gjdevelops.github.io/doodleart)  
 [Games For Microbit](https://gjdevelops.github.io/microbitgames)
 
 ### Apps
